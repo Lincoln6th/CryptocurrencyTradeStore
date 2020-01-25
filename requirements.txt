@@ -1,0 +1,5 @@
+websocket-client
+pytz
+
+# for sample script
+sty
